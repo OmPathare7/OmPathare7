@@ -12,8 +12,6 @@
 
 <h2 align="left">Here are all my Skillsets✌🏻</h2>
 
-###
-
 <h2 align="left"></h2>
 
 ###
