@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Here's All About Myself ✌🏻</h2>
+<h2 align="left">Here are all my Skillsets✌🏻</h2>
 
 ###
 
