@@ -36,4 +36,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-![snake gif](https://github.com/OmPathare7/OmPathare7/blob/output/github-contribution-grid-snake.svg)
